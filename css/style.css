@@ -15137,6 +15137,9 @@ footer.ltn__footer-area {
   margin-top: 10px;
 }
 
+.footer-add{
+  margin-top: -20px;
+}
 
 
 @media(max-width:767px){
